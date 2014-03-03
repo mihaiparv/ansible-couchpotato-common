@@ -1,7 +1,7 @@
 ansible-couchpotato-common
 =====
 
-This role installs and configures couchpotato, an awesome PVR for usenet and torrents.
+This role installs and configures [CouchPotato](https://couchpota.to/), an awesome PVR for usenet and torrents.
 
 Requirements
 ------------
