@@ -1,7 +1,11 @@
 # {{ ansible_managed }}
 
 ## username to run couchpotato under, the default is couchpotato
-CP_USER={{ user }}
+{% if couchpotato_user is defined %}
+CP_USER={{ couchpotato_user }}
+{% else %}
+#CP_USER= #$RUN_AS
+{% endif %}
 
 ## the location of couchpotato.py, the default is /opt/couchpotato
 CP_HOME={{ couchpotato_install_dir }}
