@@ -1,0 +1,3 @@
+---
+couchpotato_github_repo: 'https://github.com/RuudBurger/CouchPotatoServer.git'
+couchpotato_install_dir: '/opt/couchpotato'
