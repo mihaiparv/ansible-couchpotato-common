@@ -1,4 +1,4 @@
-nginx
+ansible-couchpotato-common
 =====
 
 This role installs and configures couchpotato, an awesome PVR for usenet and torrents.
