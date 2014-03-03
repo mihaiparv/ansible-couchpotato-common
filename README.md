@@ -19,7 +19,7 @@ them are as follows.
     couchpotato_install_dir: '/opt/couchpotato'
 
     # The user under which the service should run
-    couchpotato_user: couchpotato
+    couchpotato_user: 'couchpotato'
 
 Examples
 ========
