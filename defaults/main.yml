@@ -1,2 +1,3 @@
 ---
+couchpotato_user: 'couchpotato'
 couchpotato_install_dir: '/opt/couchpotato'

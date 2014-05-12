@@ -1,2 +1,3 @@
 ---
 couchpotato_github_repo: 'https://github.com/RuudBurger/CouchPotatoServer.git'
+couchpotato_run_dir: /var/run/couchpotato
